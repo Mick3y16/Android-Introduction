@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiniCalc</string>
+    <string name="first_number">First Number:</string>
+    <string name="second_number">Second Number:</string>
+    <string name="calculate">Calculate</string>
+    <string name="multiply">Multiply</string>
+    <string name="divide">Divide</string>
+    <string name="subtract">Subtract</string>
+    <string name="add">Add</string>
+    <string name="back">Back</string>
+</resources>

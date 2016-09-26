@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tictactoe="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itemMenuNewGame"
+        android:title="option1"
+        android:icon="@drawable/player"
+        tictactoe:showAsAction="always"
+        android:orderInCategory="1">
+    </item>
+    <item
+        android:id="@+id/itemMenuConfig"
+        android:title="option2"
+        android:icon="@drawable/conf"
+        tictactoe:showAsAction="always"
+        android:orderInCategory="2">
+    </item>
+    <item
+        android:id="@+id/itemMenuReset"
+        android:title="option3"
+        android:icon="@drawable/reset"
+        tictactoe:showAsAction="always"
+        android:orderInCategory="3">
+    </item>
+    <item
+        android:id="@+id/itemMenuExit"
+        android:title="option4"
+        android:icon="@drawable/exit"
+        tictactoe:showAsAction="always"
+        android:orderInCategory="4">
+    </item>
+</menu>

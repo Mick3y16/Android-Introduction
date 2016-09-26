@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="browsers">
+        <item>Chrome</item>
+        <item>Firefox</item>
+        <item>Internet Explorer</item>
+        <item>Opera</item>
+        <item>Safari</item>
+    </string-array>
+</resources>

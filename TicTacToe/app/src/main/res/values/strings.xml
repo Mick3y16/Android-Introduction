@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="tictactoe">Tic Tac Toe</string>
+    <string name="game_logo">Game Logo</string>
+    <string name="player_name">Player name</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_intermediate">Intermediate</string>
+    <string name="difficulty_expert">Expert</string>
+</resources>
